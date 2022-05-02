@@ -105,3 +105,4 @@ dist
 
 # My list
 .prettierrc.json
+*.ids
